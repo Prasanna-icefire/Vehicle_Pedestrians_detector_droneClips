@@ -13,3 +13,6 @@ After this make open the darknet_video.py and set the input video path.....Make 
 See the results and enjoy.
 
 You might want to first make the darknet folder. Make the necessary changes in the make file,and execute make
+
+
+For the dataset I used VisDrone's Data to train the model.
