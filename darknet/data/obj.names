@@ -1,0 +1,12 @@
+ignored_regions
+pedestrian
+person
+bicycle
+car
+van
+truck
+tricycle
+awning-tricycle
+bus
+motor
+others
