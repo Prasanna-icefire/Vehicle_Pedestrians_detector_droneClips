@@ -16,3 +16,7 @@ You might want to first make the darknet folder. Make the necessary changes in t
 
 
 For the dataset I used VisDrone's Data to train the model.
+
+
+https://www.dropbox.com/s/w0t148ig7us67es/res.avi?dl=0
+The above link is the result of how detections are haooening in videos
